@@ -47,7 +47,7 @@
 <details>
 <summary>STEP-2</summary>
 <div markdown="1">       
-  <img src="https://i.imgur.com/JvFuB7o.png">
+  <img src="https://i.imgur.com/mc4hnxI.png">
 </div>
 </details>
 
